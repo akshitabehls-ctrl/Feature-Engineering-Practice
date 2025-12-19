@@ -16,19 +16,19 @@ This project is all about taking raw, messy data and turning it into something m
 ## 📊 Datasets Used
 All datasets are publicaly available on Kaggle:
 
-**• Cars Data**
-**• Concrete Dataset**
-**• Covidtoy Dataset**
-**• Customer Dataset**
-**• Data Science Job Dataset**
-**• Date & Time Examples Dataset**
-**• Fifty Startups Dataset**
-**• House Price Train Dataset**
-**• Placement Dataset**
-**• Social Network Ads Dataset**
-**• Titanic Dataset (multiple variants)**
-**• Weight–Height Dataset**
-**• Wine Quality Dataset**
+* **Cars Data**
+* **Concrete Dataset**
+* **Covidtoy Dataset**
+*  **Customer Dataset**
+* **Data Science Job Dataset**
+* **Date & Time Examples Dataset**
+* **Fifty Startups Dataset**
+* **House Price Train Dataset**
+* **Placement Dataset**
+* **Social Network Ads Dataset**
+* **Titanic Dataset (multiple variants)**
+* **Weight–Height Dataset**
+* **Wine Quality Dataset**
 
 You can find them under Kaggle dataset search:
 👉 [https://www.kaggle.com/datasets](https://www.kaggle.com/datasets)
