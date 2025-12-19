@@ -13,14 +13,6 @@ This project is all about taking raw, messy data and turning it into something m
 
 ---
 
-## 📁 Notebook
-
-👉 [`feature_engineering_practice.ipynb`](notebook/feature_engineering_practice.ipynb)
-
-This notebook contains code, visualizations, explanations, and comparisons of multiple techniques.
-
----
-
 ## 📊 Datasets Used
 
 All datasets are publicly available on Kaggle:
