@@ -71,6 +71,10 @@ You can find them under Kaggle dataset search:
 * IQR method
 * Percentile method
 
+### **📍 Dimensionality Reduction**
+
+* Principal Component Analysis (PCA) 
+
 ### **📍 Feature Engineering Extras**
 
 * Feature construction
